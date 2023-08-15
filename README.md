@@ -2,6 +2,10 @@
 
 This project is a Sudoku solver website that allows users to input Sudoku grids in order to solve them. The website uses a backtracking algorithm to solve the Sudoku puzzles.
 
+## Note
+
+In this Project, we have added style and javascript within the same HTML file under the tags <style></style> and <script></script>
+
 ## Usage
 
 1. Open the Sudoku Solver website in your web browser.
